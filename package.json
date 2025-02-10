@@ -1,0 +1,13 @@
+
+{
+  "name": "therapytips",
+  "version": "1.0.0",
+  "description": "Therapy Tips website project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
