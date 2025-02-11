@@ -13,7 +13,7 @@ This version was **developed independently** based on the original website's str
 
 ## 🛠 **Technologies Used**
 - **Frontend:** HTML, CSS (Flexbox, Grid), JavaScript  
-- **Backend:** Node.js, Express.js (if applicable)  
+- **Backend:** Node.js, Express.js   
 - **Styling Frameworks:** Custom CSS  
 - **Icons & Fonts:** FontAwesome, Google Fonts  
 - **Version Control:** Git & GitHub  
